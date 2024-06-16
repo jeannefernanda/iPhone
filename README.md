@@ -29,7 +29,7 @@ classDiagram
     class NavegadorInternet {
         +exibirPagina(String url)
         +adcionarNovaAba()
-        +atalizarPagina()
+        +atualizarPagina()
     }
 
     class iPhone {
